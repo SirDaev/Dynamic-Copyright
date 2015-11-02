@@ -9,7 +9,7 @@
 		echo "-".date("Y");
 	}
 	
-	echo " " . $siteName . ".";
+	echo " " . $siteName;
 	echo " All Rights Reserved.";
 	
 ?>
