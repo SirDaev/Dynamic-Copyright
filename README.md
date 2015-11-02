@@ -7,5 +7,5 @@ $siteName = "DaveJudd.com";
 ```
 <p>Output:</p>
 ```
-Copyright &copy; 2010-2015 DaveJudd.com All Rights Reserved.
+Copyright © 2010-2015 DaveJudd.com All Rights Reserved.
 ```
